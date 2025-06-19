@@ -1,0 +1,4 @@
+first create accordion inside components we have to make all things 
+dynamic (resuable)so that they can be used again
+2.use state (hook used)
+3.

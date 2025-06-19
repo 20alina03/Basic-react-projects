@@ -1,0 +1,13 @@
+.active {
+  color: #fff700;
+}
+
+.inactive {
+  color: #000000;
+}
+h1
+{
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
